@@ -8,7 +8,7 @@ local g = {
 
 local function createWelcomePopup()
     local gui = Instance.new("ScreenGui", f:WaitForChild("PlayerGui"))
-    gui.Name = "XXSCRIPTS_Welcome"
+    gui.Name = "KolScript_Welcome"
     gui.ResetOnSpawn = false
 
     local frame = Instance.new("Frame", gui)
